@@ -44,7 +44,7 @@ frontend-learning/
 ### Day 2
 - Built a multi-page HTML website
 - Added navigation between pages
-- Used images and hyperlinks
+- Used images and hyperlinks,
 - Uploaded my first frontend project to GitHub 🎉
 
 More updates and projects will be added as I continue learning.
